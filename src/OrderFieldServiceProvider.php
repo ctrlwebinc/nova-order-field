@@ -1,6 +1,6 @@
 <?php
 
-namespace ctrlwebinc\NovaOrderField;
+namespace Ctrlweb\NovaOrderField;
 
 use Illuminate\Support\Facades\Route;
 use Laravel\Nova\Nova;
