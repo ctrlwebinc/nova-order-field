@@ -1,6 +1,6 @@
 <?php
 
-namespace ctrlwebinc\NovaOrderField;
+namespace Ctrlweb\NovaOrderField;
 
 use Laravel\Nova\Resource;
 use Laravel\Nova\Fields\Field;
