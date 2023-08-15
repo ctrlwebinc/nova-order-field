@@ -13,13 +13,13 @@
     },
     "autoload": {
         "psr-4": {
-            "MichielKempen\\NovaOrderField\\": "src/"
+            "Ctrlweb\\NovaOrderField\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "MichielKempen\\NovaOrderField\\OrderFieldServiceProvider"
+                "Ctrlweb\\NovaOrderField\\OrderFieldServiceProvider"
             ]
         }
     },
