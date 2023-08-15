@@ -37,7 +37,7 @@ class OrderFieldServiceProvider extends ServiceProvider
         }
 
         Route::middleware(['nova', 'api'])
-            ->prefix('nova-vendor/michielkempen/nova-order-field')
+            ->prefix('nova-vendor/ctrlwebinc/nova-order-field')
             ->group(__DIR__.'/../routes/api.php');
     }
 }
